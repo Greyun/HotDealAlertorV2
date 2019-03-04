@@ -1,0 +1,29 @@
+{
+  "name": "alertor_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greyun/HotDealAlertorV2.git"
+  },
+  "keywords": [
+    "hot-deal-alertor"
+  ],
+  "author": "Greyun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greyun/HotDealAlertorV2/issues"
+  },
+  "homepage": "https://github.com/Greyun/HotDealAlertorV2#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
